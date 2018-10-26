@@ -1,1 +1,8 @@
-blah
+Finance Analysis
+Author: Andrew Petersen
+
+The purpose of this subrepo is to act as a container for all projects and improvements involving my personal financial analysis tool.
+
+The current tool is Excel based, however the limitations and overhead of personalization has led me to transition the tool to Dash, a
+Plotly library built on top of Matplotlib that allows for nice visual graph representation. The project will be created and edited in 
+Jupyter Lab - while being managed in GitHub.
